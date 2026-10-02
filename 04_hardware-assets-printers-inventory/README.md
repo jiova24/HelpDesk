@@ -21,7 +21,7 @@ El objetivo es simular las tareas recurrentes de un técnico de mesa de ayuda cu
 
 ---
 
-## Actividades y Procedimientos a Ejecutar
+## Actividades y Procedimientos Ejecutados
 
 ### 1. Base de Datos de Inventario de Activos de TI
 * **Campos mínimos por activo:** ID interno, tipo de equipo, fabricante, modelo, número de serie, usuario asignado, sede/ubicación, fecha de entrega, garantía, estado (disponible / asignado / en reparación / baja).
