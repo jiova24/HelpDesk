@@ -5,6 +5,8 @@ Este módulo documenta las actividades de administración de identidades, gesti�
 
 El objetivo es simular el trabajo diario de un técnico de Help Desk L1 al aprovisionar cuentas corporativas, asignar licencias, gestionar grupos de seguridad y atender solicitudes de restablecimiento de credenciales.
 
+![Dashboard Entra](01_entraid_identity_management/DashboardEntra.png)
+
 ---
 
 ## Entorno y Tecnologías Utilizadas
