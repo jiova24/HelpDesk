@@ -5,7 +5,7 @@ Este módulo documenta las actividades de administración de identidades, gesti�
 
 El objetivo es simular el trabajo diario de un técnico de Help Desk L1 al aprovisionar cuentas corporativas, asignar licencias, gestionar grupos de seguridad y atender solicitudes de restablecimiento de credenciales.
 
-![Dashboard Entra](01_entraid_identity_management/DashboardEntra.png)
+![Dashboard Entra](DashboardEntra.png)
 
 ---
 
@@ -28,6 +28,8 @@ El objetivo es simular el trabajo diario de un técnico de Help Desk L1 al aprov
 * Creación de cuentas de usuario finales con naming conventions corporativos (ej. `alopez@DapaCorp.onmicrosoft.com`).
 * Asignación de licencias empresariales (Microsoft 365 Business Premium).
 * Configuración de propiedades de usuario, roles iniciales y estado de la cuenta.
+
+![Ana Lopez](
 
 ### 3. Administración de Grupos de Seguridad (RBAC)
 * Creación del grupo de seguridad **`Soporte-TI-L1`**.
