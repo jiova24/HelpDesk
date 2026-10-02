@@ -66,7 +66,6 @@ El objetivo es simular las tareas recurrentes de un técnico de mesa de ayuda cu
 
 | Módulo / Caso de Uso | Captura de Pantalla |
 | :--- | :--- |
-| **Inventario de activos de TI** | `![Inventario](./screenshots/01_asset_inventory.png)` |
-| **Diagnóstico de hardware** | `![Diagnostico HW](./screenshots/02_hardware_diagnostics.png)` |
-| **Impresora de red y cola de impresión** | `![Impresoras](./screenshots/03_printers.png)` |
-| **Preparación y entrega de equipo** | `![Entrega de equipo](./screenshots/04_equipment_handover.png)` |
+| **Inventario de activos de TI** | ![Inventario](InventarioPowerShell.png) |
+| **Diagnóstico de hardware** | ![Diagnostico HW](IntegridadArchivosCMD.png) |
+| **Impresora de red y cola de impresión** | ![Impresoras](ImpresoaCMD.png) |
